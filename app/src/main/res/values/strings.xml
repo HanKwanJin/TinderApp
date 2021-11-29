@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TinderApp</string>
+    <string name="facebook_app_id">469754764684971</string>
+    <string name="fb_login_protocol_scheme">fb469754764684971</string>
+    <string name="noMatchedCard">매칭할 카드가 없습니다.</string>
+    <string name="logout">로그아웃</string>
+    <string name="matchedListShow">매치 리스트 보기</string>
+</resources>
